@@ -1,4 +1,4 @@
-Python GUI Calendar
+#Python GUI Calendar
 
 This project is a simple and interactive GUI calendar built with Python. It uses the tkinter and tkcalendar libraries to create a user-friendly interface that allows users to select a date from the calendar.
 
