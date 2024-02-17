@@ -1,7 +1,9 @@
 Python GUI Calendar
+
 This project is a simple and interactive GUI calendar built with Python. It uses the tkinter and tkcalendar libraries to create a user-friendly interface that allows users to select a date from the calendar.
 
 Features
+
 Interactive Calendar: The application displays a monthly calendar that users can navigate to go back and forth between months and years.
 Date Selection: Users can select any date directly from the calendar. The selected date gets highlighted for easy identification.
 Display Selected Date: A button is provided in the GUI. When this button is clicked, the application shows the selected date.
